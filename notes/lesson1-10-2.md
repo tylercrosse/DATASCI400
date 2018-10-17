@@ -48,14 +48,17 @@ Data?
 A: poorly structured data that are hard to
 analyze
 
-_(deck 2, slide 19)_
-Descriptive: What Happened?
-Diagnostic: Why did it happen?
-Predictive: What will happen?
-Perscriptive: What should I do?
+_(deck 2, slide 19)_ intro to the four analyaicts
+1. Descriptive: What Happened?
+2. Diagnostic: Why did it happen?
+3. Predictive: What will happen?
+4. Perscriptive: What should I do?
 
 ## Data Science Cycle
 
 - [slide deck 3 for lesson 1 - L01-B-DataScienceCycle.pdf](https://library.startlearninglabs.uw.edu/DATASCI400/PDF/L01-B-DataScienceCycle.pdf)
 
-https://washington.zoom.us/my/datasczmrm
+
+Drew Conway Venn Diagram union of Math, Software Engineering, Domain Kownledge
+
+_(deck 3, slide 4)_ [Extract, transform, load (ETL)](https://en.wikipedia.org/wiki/Extract,_transform,_load)
