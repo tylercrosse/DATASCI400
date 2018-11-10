@@ -7,13 +7,13 @@ preparing your data by identifying and dealing with the aberrant data.
 
 Create a new Python script that includes the following:
 
-Import statements for necessary package(s)
-Create 3 different numpy arrays with at least 30 items each
-Write function(s) that remove outliers in the first array
-Write function(s) that replace outliers in the second array
-Write function(s) that fill in missing values in the third array
-Comments explaining the code blocks
-Summary comment block on how your dataset has been cleaned up
+1. Import statements for necessary package(s)
+2. Create 3 different numpy arrays with at least 30 items each
+3. Write function(s) that remove outliers in the first array
+4. Write function(s) that replace outliers in the second array
+5. Write function(s) that fill in missing values in the third array
+6. Comments explaining the code blocks
+7. Summary comment block on how your dataset has been cleaned up
 
 Referenced [Function Annotations](https://www.python.org/dev/peps/pep-3107/)
 """
